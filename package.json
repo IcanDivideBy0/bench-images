@@ -1,0 +1,17 @@
+{
+  "name": "bench-images",
+  "version": "0.0.0",
+  "description": "Benchmark ImageMagic vs GraphicMagic",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "S Hurel",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^0.9.0",
+    "gm": "^1.16.0",
+    "lodash": "^2.4.1",
+    "temp": "^0.8.1"
+  }
+}
